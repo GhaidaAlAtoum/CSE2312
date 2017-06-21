@@ -1,4 +1,6 @@
 /*
+    NAME : Ghaida Al-Atoum    1001228672
+
   HW2 , Question # 1
 
      In (c) subtract the number in 1b from 1a = 1a - 1b 

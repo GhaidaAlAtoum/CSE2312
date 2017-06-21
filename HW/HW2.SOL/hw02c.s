@@ -1,4 +1,6 @@
 /*
+    NAME : Ghaida Al-Atoum    1001228672
+
     HW2 , Question c
     Implement:
         sum =0

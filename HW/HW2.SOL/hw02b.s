@@ -1,4 +1,6 @@
 /*
+    NAME : Ghaida Al-Atoum    1001228672
+
    HW2 , Question 2
    implementing 
       sum = 0
@@ -6,8 +8,7 @@
     while( sum < 105 ) {
        sum = sum + i;
        i--;
-    } 
-    // the loop will break when the sum is >= 105
+    }  // the loop will break when the sum is >= 105
     The last nmber that cause the sum to exceed 105 will be 15    
 */
     .global _start
